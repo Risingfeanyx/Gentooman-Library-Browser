@@ -5,3 +5,5 @@ A bash script to download sections of the Gentooman Library at once. Full file l
 ```
 
 <img src="image.png">
+
+Windows and Mobile coming soon ™
