@@ -3,3 +3,5 @@ A bash script to download sections of the Gentooman Library at once. Full file l
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Risingfeanyx/Gentooman-Library-Browser/master/main.sh)" 
 ```
+
+<img src="image.png">
