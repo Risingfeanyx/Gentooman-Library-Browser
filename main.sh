@@ -1,11 +1,9 @@
 #!/bin/bash
-EDITOR=nano
-PASSWD=/etc/passwd
 RED='\033[0;41;30m'
 STD='\033[0;0;39m'
-mkdir Gentoomen ; cd Gentoomen
+mkdir Gentoomen ; cd Gentoomen || exit
 pause(){
-  read -p "Press [Enter] key to continue..." fackEnterKey
+  read -p -r "Press [Enter] key to continue..." 
 }
 
 one(){
@@ -183,7 +181,7 @@ show_menus() {
 }
 read_options(){
 	local choice
-	read -p "Enter choice [ 1 - 29] " choice
+	read -p -r "Enter choice [ 1 - 29] " choice
 	case $choice in
 		1) one ;;
 		2) two ;;
