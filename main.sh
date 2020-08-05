@@ -3,164 +3,143 @@ EDITOR=nano
 PASSWD=/etc/passwd
 RED='\033[0;41;30m'
 STD='\033[0;0;39m'
-
+mkdir Gentoomen ; cd Gentoomen
 pause(){
   read -p "Press [Enter] key to continue..." fackEnterKey
 }
 
 one(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AlgebraAndTrigonometry-OP_NpLRuqX.pdf ; open AlgebraAndTrigonometry-OP_NpLRuqX.pdf
+	wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Algorithms/"; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
  
 two(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AmericanGovernment2e-OP_WpMZUKx.pdf ; open AmericanGovernment2e-OP_WpMZUKx.pdf
+		wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Animation/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 three(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AnatomyandPhysiology-OP_xxKIcSo.pdf ; open AnatomyandPhysiology-OP_xxKIcSo.pdf
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Artificial%20Intelligence/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 
 four(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Astronomy-OP_oV0J80E.pdf ; open Astronomy-OP_oV0J80E.pdf
+	wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Computational%20Linguistics/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 
 five(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Biology2e-WEB_eUNkk2q.pdf ; open Biology2e-WEB_eUNkk2q.pdf
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Computer%20Architecture/" ; clear ; find the-eye.eu/ -name  "*.pdf"
 
         pause
 }
 
 six(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/BusinessEthics-OP_BQNN2qf.pdf ; open BusinessEthics-OP_BQNN2qf.pdf
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Computer%20Graphics/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 
 seven(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Calculus_Volume_1_-_WEB.pdf ; open Calculus_Volume_1_-_WEB.pdf 
+	wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Computer%20History/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 
 eight(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume2-OP_esPpXTB.pdf ; open CalculusVolume2-OP_esPpXTB.pdf
+	wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Cryptography/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 
 nine(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume3-OP_n7Nj74c.pdf ; open CalculusVolume3-OP_n7Nj74c.pdf 
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/DSP-Collection/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 
 ten(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Chemistry2e-OP_ZIUdkjH.pdf ; open Chemistry2e-OP_ZIUdkjH.pdf 
+	wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Data%20Analysis/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 
 eleven(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/ChemistryAtomsFirst2e-OP_T2wT7wj.pdf ; open ChemistryAtomsFirst2e-OP_T2wT7wj.pdf
+       wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Data%20Mining/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 
 twelve(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CollegeAlgebra-OP_B7PUoNW.pdf ; open CollegeAlgebra-OP_B7PUoNW.pdf
+	wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Data%20Structures/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 
 thirteen(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/College_Physics-WEB.pdf ; open College_Physics-WEB.pdf 
+	wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Databases/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 
 fourteen(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/College_Success_web_slqpdO2.pdf ; open College_Success_web_slqpdO2.pdf
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Digital%20Design/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 fifteen(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Economics2e-OP_I2ne43X.pdf ; open Economics2e-OP_I2ne43X.pdf 
+	wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Electronics/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 sixteen(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Entrepreneurship-WEB.pdf ; open Entrepreneurship-WEB.pdf
+	wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Extra/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 seventeen(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/FinancialAccounting-OP_dwsQeqn.pdf ; open FinancialAccounting-OP_dwsQeqn.pdf 
+	wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Game%20Development/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 eighteen(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntermediateAlgebra2e-WEB.pdf ; open IntermediateAlgebra2e-WEB.pdf
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Information%20Retrieval/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 nineteen(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductionToBusiness-OP_gPQqj30.pdf ; open IntroductionToBusiness-OP_gPQqj30.pdf
+	wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Information%20Theory/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 twenty(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductionToSociology2e-OP_D8IepwZ.pdf ; open IntroductionToSociology2e-OP_D8IepwZ.pdf
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Maths/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 twentyone(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductoryStatistics-OP_LXn0jei.pdf ; open IntroductoryStatistics-OP_LXn0jei.pdf
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Misc/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 twentytwo(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Macroeconomics2e-OP.pdf ; open Macroeconomics2e-OP.pdf
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Networking/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 twentythree(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/ManagerialAccounting-OP_os574CR.pdf ; open ManagerialAccounting-OP_os574CR.pdf
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Operating%20Systems/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 twentyfour(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Microbiology-OP.pdf ; open Microbiology-OP.pdf
+	wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Programming/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 
 twentyfive(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Microeconomics2e-OP_603oHEs.pdf ; open Microeconomics2e-OP_603oHEs.pdf
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Security/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 twentysix(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/OrganizationalBehavior-OP.pdf ; open OrganizationalBehavior-OP.pdf
+        owget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Software%20Engineering/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 twentyseven(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Prealgebra2e-WEB_yC5bGuI.pdf ; open Prealgebra2e-WEB_yC5bGuI.pdf
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/The%20Actually%20Useful%20Programming%20Library/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 twentyeight(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Precalculus-OP_mbNC8an.pdf ; open Precalculus-OP_mbNC8an.pdf
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/Theory%20Of%20Computation/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 twentynine(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Prealgebra2e-WEB_yC5bGuI.pdf ; open Prealgebra2e-WEB_yC5bGuI.pdf
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/HumbleBundle/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 thirty(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Psychology-OP_F4YYkDr.pdf ; open Psychology-OP_F4YYkDr.pdf
-        pause
-}
-thirtyone(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/USHistory-OP_IdjNctE.pdf ; open USHistory-OP_IdjNctE.pdf
-        pause
-}
-thirtytwo(){
-        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume1-OP_gUzvYbP.pdf ; open UniversityPhysicsVolume1-OP_gUzvYbP.pdf
-
-        pause
-}
-thirtythree(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume2-OP.pdf ; open UniversityPhysicsVolume2-OP.pdf
-        pause
-}
-thirtyfour(){
-	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume3-OP.pdf ; open UniversityPhysicsVolume3-OP.pdf
-        pause
-}
-thirtyfive(){
-	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Risingfeanyx/Openstax-Browser/master/big_dl)" 
+        wget -m -np -c -U "eye01" -R "index.html*" "https://the-eye.eu/public/Books/Gentoomen%20Library/" ; clear ; find the-eye.eu/ -name  "*.pdf"
         pause
 }
 
@@ -168,49 +147,43 @@ thirtyfive(){
 # function to display menus
 show_menus() {
 	clear
-	echo "~~~~~~~~~~~~~~~~~~~~~~~~~"	
-	echo " Select an OpenStax Book"
-	echo "  CTRL-C to exit "
-	echo "~~~~~~~~~~~~~~~~~~~~~~~~~"
-	echo " 1. Algebra and Trigonometry"
-	echo " 2. American Government"
-	echo " 3. Anatomy and Physiology"
-	echo " 4. Astronomy"
-	echo " 5. Biology 2"
-	echo " 6. Business Ethics"
-	echo " 7. Calculus Volume 1"
-	echo " 8. Calculus Volume 2"
-	echo " 9. Calculus Volume 3"
-	echo "10. Chemistry"
-	echo "11. Chemistry 2"
-	echo "12. College Algebra"
-	echo "13. College Physics" 
-	echo "14. College Success"
-	echo "15. Economics 2"
-	echo "16. Entrepreneurship"
-	echo "17. Financial Accounting"
-	echo "18. Intermediate Algebra"
-	echo "19. Introduction to Business"
-	echo "20. Introduction to Sociology 2"
-	echo "21. Introductory Statistics"
-	echo "22. Macroeconomics 2"
-	echo "23. Managerial Accounting"
-	echo "24. Microbiology"
-	echo "25. Microeconomics 2 "
-	echo "26. Organizational Behavior"
-	echo "27. Pre-Algebra 2" 
-	echo "28. Pre-Calculus"
-	echo "29. Principles of Management"
-	echo "30. Psychology"
-	echo "31. US History"
-	echo "32. University Physics Volume 1"
-	echo "33. University Physics Volume 2"
-	echo "34. University Physics Volume 3"
-	echo "35. Download all of them!"
+	echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"	
+	echo "Welcome to the Gentoomen Library"
+	echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+	echo "1. Algorithms/"
+	echo "2. Animation/"
+	echo "3. Artificial Intelligence/"
+	echo "4. Computational Linguistics/"
+	echo "5. Computer Architecture/"
+	echo "6. Computer Graphics/"
+	echo "7. Computer History/"
+	echo "8. Cryptography/"
+	echo "9. DSP-Collection/"
+	echo "10. Data Analysis/"
+	echo "11. Data Mining/"
+	echo "12. Data Structures/"
+	echo "13. Databases/" 
+	echo "14. Digital Design/"
+	echo "15. Electronics/"
+	echo "16. Extra/"
+	echo "17. Game Development/"
+	echo "18. Information Retrieval/"
+	echo "19. Information Theory/"
+	echo "20. Maths/"
+	echo "21. Misc/"
+	echo "22. Networking/"
+	echo "23. Operating Systems/"
+	echo "24. MProgramming/"
+	echo "25. Security/"
+	echo "26. Software Engineering/"
+	echo "27. The Actually Useful Programming Library/"
+	echo "28. Theory Of Computation/"
+	echo "29. Humble Bundle Collection"
+	echo "30. Download the whole library! +35 GB; so it will be a long while"
 }
 read_options(){
 	local choice
-	read -p "Enter choice [ 1 - 35] " choice
+	read -p "Enter choice [ 1 - 29] " choice
 	case $choice in
 		1) one ;;
 		2) two ;;
@@ -242,11 +215,6 @@ read_options(){
 		28) twentyeight ;;
 		29) twentynine ;;
 		30) thirty ;;
-		31) thirtyone ;;
-		32) thirtytwo ;;
-		33) thirtythree ;; 
-		34) thirtyfour ;;
-		35) thirtyfive ;;
 		*) echo -e "${RED}Error...${STD}" && sleep 2
 	esac
 }
