@@ -173,7 +173,7 @@ show_menus() {
 	echo "21. Misc/"
 	echo "22. Networking/"
 	echo "23. Operating Systems/"
-	echo "24. MProgramming/"
+	echo "24. Programming/"
 	echo "25. Security/"
 	echo "26. Software Engineering/"
 	echo "27. The Actually Useful Programming Library/"
